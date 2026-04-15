@@ -7,7 +7,7 @@ Official repository for the paper CubeGS: Cube-wise Motion Residual Prediction f
 **Accepted by ACM Multimedia Systems Conference 2026 (MMSys'26)** <br>
 
 <p float="middle">
-  <img src="assets/teaser.png" width="99%" />
+  <img src="teaser.png" width="99%" />
 </p>
 
 ## Code Availability Notice
